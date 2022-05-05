@@ -18,6 +18,7 @@ const App = () => {
 
     return (
         <div className='app'>
+            <h3>© AY dev.</h3>
             <h1>QR Code Generator</h1>
             <input
                 type='text'

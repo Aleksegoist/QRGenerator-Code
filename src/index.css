@@ -21,6 +21,13 @@ h1 {
   margin-bottom: 20px;
 }
 
+h3 {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  margin-right: 400px;
+}
+
 input {
   appearance: none;
   outline: none;
